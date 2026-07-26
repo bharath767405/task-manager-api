@@ -1,0 +1,23 @@
+# Compiled output
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Never commit secrets
+application-prod.properties
+application-secret.properties
